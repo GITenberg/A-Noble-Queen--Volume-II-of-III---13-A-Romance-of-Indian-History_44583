@@ -1,0 +1,31 @@
+_repo: A-Noble-Queen--Volume-II-of-III---13-A-Romance-of-Indian-History_44583
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44583-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Taylor, Meadows
+    aliases:
+    - Taylor, Philip Meadows
+    - Meadows Taylor, Philip
+    birthdate: 1808
+    deathdate: 1876
+    gutenberg_agent_id: '42684'
+    url: http://www.gutenberg.org/2009/agents/42684
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Meadows_Taylor
+description: ''
+gutenberg_issued: '2014-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Queens -- India -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Chand Bibi, sultana, -1600 -- Fiction'
+title: 'A Noble Queen: A Romance of Indian History (Volume 2 of 3)'
+url: http://www.gutenberg.org/ebooks/44583
